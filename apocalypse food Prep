@@ -1,0 +1,39 @@
+📊 Apocalypse Food Prep Dashboard (Power BI)
+
+📌 Project Overview
+
+The Apocalypse Food Prep Dashboard is an interactive Power BI project designed to analyze food supply spending and distribution patterns over time. This dashboard provides key insights into purchasing trends, store performance, and monthly expenses—helping with efficient planning and resource management.
+
+
+🚀 Dashboard Highlights
+	•	💰 Total Spending
+Displays the total sum of food expenses ($1.06K) for quick financial overview.
+	•	📅 Count of Days
+Tracks the total number of recorded days (365 days) for analysis.
+	•	📈 Monthly Spending Trends
+A line chart showing how expenses fluctuate across months (January–April), helping identify peak spending periods.
+	•	🏪 Store Performance Analysis
+Compares spending across major stores:
+	•	Target
+	•	Walmart
+	•	Costco
+	•	📊 Spending Distribution
+A donut chart visualizing how total expenses are distributed monthly.
+
+
+🛠️ Tools & Technologies
+	•	Power BI – Dashboard creation and visualization
+	•	DAX (Data Analysis Expressions) – Measures and calculations
+	•	Data Modeling – Structuring and transforming dataset
+
+
+📈 Key Insights
+	•	Spending peaked in March, indicating higher purchase activity.
+	•	Target and Walmart show slightly higher spending compared to Costco.
+	•	Monthly distribution highlights balanced but fluctuating expense patterns.
+
+💡 Skills Demonstrated
+	•	Data Visualization & Dashboard Design
+	•	Business Intelligence Reporting
+	•	Trend Analysis
+	•	Data Interpretation
